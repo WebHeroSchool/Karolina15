@@ -40,8 +40,8 @@
    }
  }
 
- @media (max-width: 100px) {
+ @media (max-width: 110px) {
    .container {
      font-size: 70px;
    }
- } 
+ }
